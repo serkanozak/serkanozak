@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-###### 📬 How to reach me: av.serkanozak@gmail.com
+###### 📬 How to reach me: dev.serkanozak@gmail.com
 
 ## 🛠 Technologies and tools
 #### 🧑‍💻 Languages
