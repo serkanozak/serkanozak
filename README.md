@@ -1,5 +1,6 @@
 ### Hi there 👋🏻
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVubjc3bDM2bzczbjFvd2R3dW1iZzdzM2Rha3NzbG9zN3RzYWQ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width=100>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVubjc3bDM2bzczbjFvd2R3dW1iZzdzM2Rha3NzbG9zN3RzYWQ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width=100><br/>
+
 ###### 📬 How to reach me: dev.serkanozak@gmail.com
 
 ## 🛠 Technologies and tools
