@@ -1,4 +1,4 @@
-# Hi there 👋🏻
+### Hi there 👋🏻
 📬 How to reach me: av.serkanozak@gmail.com
 
 # 🛠 Technologies and tools
