@@ -1,4 +1,4 @@
-<div><p>Hi there 🤘🏻</p><div/>
+<div align="center"><p>Hi there 🤘🏻</p><div/>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVubjc3bDM2bzczbjFvd2R3dW1iZzdzM2Rha3NzbG9zN3RzYWQ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="300" heigth="100"/>
 <div/>
