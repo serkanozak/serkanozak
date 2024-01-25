@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-<img src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO/giphy.gif" width="100" height="100"/>
+<iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
 ###### 📬 How to reach me: dev.serkanozak@gmail.com
 
 ## 🛠 Technologies and tools
